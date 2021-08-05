@@ -1,5 +1,4 @@
 dummy text
 
 updated from remote
- 
  updating the file
